@@ -19,3 +19,10 @@ public class Cat
         Console.WriteLine("The cat says: meow meow");
     }
 }
+
+/// <summary>
+/// O1.3 Dog (kutya) osztály
+/// </summary>
+public class Dog
+{
+}
